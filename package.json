@@ -1,0 +1,24 @@
+{
+  "name": "loungelobby-v5",
+  "version": "0.0.0",
+  "description": "LoungeLobby v5 redone with VueJS more or less as a research project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StormBurpee/loungelobby-v5.git"
+  },
+  "keywords": [
+    "LoungeLobby",
+    "TV",
+    "Streaming"
+  ],
+  "author": "Storm Consolidated",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StormBurpee/loungelobby-v5/issues"
+  },
+  "homepage": "https://github.com/StormBurpee/loungelobby-v5#readme"
+}
